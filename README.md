@@ -1,6 +1,4 @@
-## 移动端享诠金融
-
-## Build Setup
+# 移动端享诠金融
 
 ``` bash
 # install dependencies
