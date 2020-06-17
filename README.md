@@ -1,4 +1,3 @@
-# 移动端金融咨询网站
 
 ``` bash
 # install dependencies
